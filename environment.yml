@@ -1,0 +1,9 @@
+name: comp30380_a1
+channels:
+  - defaults
+dependencies:
+  - python=3.9.13
+  - numpy
+  - pandas
+  - jupyterlab
+prefix: /Users/xiupingxue/miniconda3/envs/comp30380_a1
